@@ -9,7 +9,7 @@ To evaluate the usability, functionality, and reliability of the Music Gate plat
 - `Music Gate STR Project.pdf`: Full STR document with:
   - Test objectives  
   - Test cases & results  
-  - Bugs (B37–B164)  
+  - Bugs (B37–B168)  
   - Recommendations & conclusions
 
 🔧 **Technologies & Methods Used**
