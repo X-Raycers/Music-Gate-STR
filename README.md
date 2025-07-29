@@ -21,7 +21,7 @@ To evaluate the usability, functionality, and reliability of the Music Gate plat
 📌 **Status:**  
 ✅ Completed – This is the first official STR I’ve written. It was reviewed by my instructor, who praised its structure and attention to detail.
 
-My STR Project: https://drive.google.com/file/d/14ep1d05goaxjgMZ0-gcxGPtg4OA7muwa/view?usp=sharing
+You can also view the STR document on [Google Drive](https://drive.google.com/file/d/14ep10d5goaxjMZ0-gxcGPjt94O47muva/view?usp=sharing).
 
 Built as part of my QA training and portfolio.  
 For feedback, contact: `xraycers1500@gmail.com`
